@@ -1,6 +1,6 @@
 import React from "react";
-import "../styles/JsxIntro.css";
-import ExampleImg from "../logo.svg";
+import "../../styles/JsxIntro.css";
+import ExampleImg from "../../logo.svg";
 
 const JsxIntro = () => {
   const name = "react"; // example 1
